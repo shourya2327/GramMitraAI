@@ -95,7 +95,7 @@ export const SettingsPage = () => {
       {/* Microservice Architecture Health Monitor */}
       <div className="gm-card">
         <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--color-dark-green)', marginBottom: '0.85rem' }}>
-          SIH26074 Microservices Status
+          Platform Microservices Status
         </h3>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '0.75rem', fontSize: '0.8rem' }}>

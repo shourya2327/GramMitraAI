@@ -96,7 +96,7 @@ export const Login = ({ onSwitchToRegister }) => {
                 <h1 style={{ fontSize: '1.55rem', fontWeight: 800, letterSpacing: '-0.02em', color: '#FFFFFF' }}>
                   GramMitra<span style={{ color: '#81C784' }}>AI</span>
                 </h1>
-                <span className="gm-badge gm-badge-green" style={{ fontSize: '0.65rem' }}>SIH26074 Platform</span>
+                <span className="gm-badge gm-badge-green" style={{ fontSize: '0.65rem' }}>AI Smart Farming Platform</span>
               </div>
             </div>
 

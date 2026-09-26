@@ -54,7 +54,7 @@ export const AIHyperlocal = () => {
             <span className="gm-badge gm-badge-purple">XGBoost Ensemble v2.4</span>
           </div>
           <p style={{ fontSize: '0.82rem', color: 'var(--color-secondary-text)' }}>
-            Core SIH26074 technology: Transforming coarse 25km regional block weather forecasts into 1km hyper-local field predictions.
+            Advanced Machine Learning Downscaling: Transforming coarse 25km regional block weather forecasts into 1km hyper-local field predictions.
           </p>
         </div>
 

@@ -85,9 +85,6 @@ export const Header = ({ onOpenLocationModal, onToggleMobileSidebar }) => {
               <span style={{ fontWeight: 800, fontSize: '1.15rem', color: 'var(--color-dark-green)', letterSpacing: '-0.02em' }}>
                 GramMitra<span style={{ color: 'var(--color-primary-green)' }}>AI</span>
               </span>
-              <span className="gm-badge gm-badge-purple" style={{ fontSize: '0.65rem', padding: '1px 6px' }}>
-                SIH26074
-              </span>
             </div>
             <p style={{ fontSize: '0.72rem', color: 'var(--color-secondary-text)', marginTop: '-2px' }}>
               Panchayat Weather & Smart Farming

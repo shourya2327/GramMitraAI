@@ -193,20 +193,6 @@ export const Sidebar = ({ activeTab, setActiveTab, isOpenMobile, onCloseMobile }
             </div>
           ))}
         </div>
-
-        {/* Footer info in sidebar */}
-        <div style={{
-          padding: '0.75rem',
-          backgroundColor: '#F7FAF7',
-          borderRadius: 'var(--radius-sm)',
-          border: '1px solid var(--color-border)',
-          fontSize: '0.72rem',
-          color: 'var(--color-secondary-text)',
-          textAlign: 'center'
-        }}>
-          <div><strong>GramMitraAI</strong> v1.0</div>
-          <div>SIH26074 • Agro-Meteorology</div>
-        </div>
       </aside>
 
       <style>{`
